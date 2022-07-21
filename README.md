@@ -4,3 +4,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=hacker123shiva&show_icons=true&locale=en" alt="hacker123" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker123shiva&" alt="hacker123shiva" width="45%" />
+
+<p align="center"> 
+ <b> Can you break this count?</b><br>
+  <img src="https://profile-counter.glitch.me/hacker123shiva/count.svg" />
+</p>
+
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
+
+<a href="https://github.com/goalsachiever/hacker123shiva"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
