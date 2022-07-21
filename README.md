@@ -25,4 +25,4 @@
   <img src="https://profile-counter.glitch.me/hacker123shiva/count.svg" />
 </p>
 
-<a href="https://github.com/goalsachiever/hacker123shiva"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://github.com/hacker123shiva/hacker123shiva"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
