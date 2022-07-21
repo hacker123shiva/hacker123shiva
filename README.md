@@ -5,9 +5,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hacker123shiva&show_icons=true&locale=en" alt="hacker123" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker123shiva&" alt="hacker123shiva" width="45%" />
  
-
- <img align="center"  width="40%" src="https://github-readme-stats.hacker123shiva.vercel.app/api/top-langs/?username=hacker123shiva&layout=compact&theme=radical" alt="hacker123shiva" />
-
+ 
+ <img align="middle"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hacker123shiva&layout=compact&theme=radical" alt="hacker123shiva" />
  
 
 
