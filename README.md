@@ -23,6 +23,7 @@
  <b> Can you break this count?</b><br>
   <img src="https://profile-counter.glitch.me/hacker123shiva/count.svg" />
 </p>
- 
+
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <a href="https://github.com/hacker123shiva/hacker123shiva"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
