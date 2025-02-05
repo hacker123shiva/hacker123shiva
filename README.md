@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Shiva Srivastava</h1>
 <h3 align="center">A passionate Java Spring Boot Developer and AI Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker123shiva&label=Profile%20views&color=0e75b6&style=flat" alt="hacker123shiva" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-srivastav&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-srivastav" /> </p>
 
 ---
 
@@ -27,7 +27,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/shivasrivastava1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shiva Srivastava | LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/shiva.srivastava_cs.h21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiva.srivastava_cs.h21 | Instagram" height="30" width="40" /></a>
-  <a href="https://hacker123shiva.github.io/shiva.srivastava/" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio Website" height="30" width="40" /></a>
+  <a href="https://shiva-srivastav.github.io/shiva.srivastava/" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio Website" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -41,16 +41,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker123shiva&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-srivastav&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hacker123shiva&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shiva-srivastav&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <h3 align="center">GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hacker123shiva" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shiva-srivastav" alt="GitHub Trophies" />
 </p>
 
 <h3 align="center">YouTube Channel:</h3>
