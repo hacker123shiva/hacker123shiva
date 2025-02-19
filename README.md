@@ -1,14 +1,11 @@
 <h2 align="center">
   Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
-
 <h1 align="center">Hi 👋, I'm Shiva Srivastava</h1>
 <h3 align="center">A passionate Java Spring Boot Developer and AI Enthusiast from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-srivastav&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-srivastav" /> </p>
 
 ---
-
 ### 👨‍💻 About Me:
 - 🔟 **Current Role**: Software Engineer at [LG Soft India](https://lgsoftindia.com/) in Bangalore
 - 🌱 **Learning Goals**: Mastering advanced **NLP**, **Deep Learning**, **Cloud Architecture**, and **DevOps** practices
@@ -46,6 +43,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiva-srivastav&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<h3 align="center">GitHub Streak Stats:</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shiva-srivastav&theme=default" alt="GitHub Streak Stats" />
 </p>
 
 <h3 align="center">GitHub Trophies:</h3>
