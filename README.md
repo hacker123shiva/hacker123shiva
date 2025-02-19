@@ -47,7 +47,7 @@
 
 <h3 align="center">GitHub Streak Stats:</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shiva-srivastav" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-srivastav" alt="GitHub Streak" />
 </p> 
 https://streak-stats.demolab.com/?user=shiva-srivastav
 <h3 align="center">GitHub Trophies:</h3>
